@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/benjamindiaz/CLionProjects/Clase/ProgressionSTL/ArithProgress.h
+
+/Users/benjamindiaz/CLionProjects/Clase/ProgressionSTL/FibonacciProgress.cpp
+FibonacciProgress.h
+/Users/benjamindiaz/CLionProjects/Clase/ProgressionSTL/FibonacciProgress.h
+
+/Users/benjamindiaz/CLionProjects/Clase/ProgressionSTL/FibonacciProgress.h
+iostream
+-
+
+/Users/benjamindiaz/CLionProjects/Clase/ProgressionSTL/GeomProgress.h
+
+/Users/benjamindiaz/CLionProjects/Clase/ProgressionSTL/main.cpp
+iostream
+-
+ArithProgress.h
+/Users/benjamindiaz/CLionProjects/Clase/ProgressionSTL/ArithProgress.h
+GeomProgress.h
+/Users/benjamindiaz/CLionProjects/Clase/ProgressionSTL/GeomProgress.h
+FibonacciProgress.h
+/Users/benjamindiaz/CLionProjects/Clase/ProgressionSTL/FibonacciProgress.h
+
